@@ -1,5 +1,5 @@
 # Hi, I am Ahnaf Al Sadid
-<img src="https://i.postimg.cc/Bv2tTs0c/cover.png">
+<img src="https://i.postimg.cc/8k3dgzYp/Cover.png">
 
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/role-web%20developer-blue?style=for-the-badge"></a>
